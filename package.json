@@ -1,0 +1,27 @@
+{
+  "name": "hive_basic",
+  "version": "1.0.0",
+  "description": "hive live",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssarkar78/hive_basic.git"
+  },
+  "keywords": [
+    "games",
+    "hive"
+  ],
+  "author": "ssarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssarkar78/hive_basic/issues"
+  },
+  "homepage": "https://github.com/ssarkar78/hive_basic#readme"
+}

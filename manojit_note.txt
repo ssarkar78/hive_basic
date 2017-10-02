@@ -1,0 +1,9 @@
+Added:
+package.json which manages the project
+
+after u have pulled the files 
+-just type the command "npm install"
+(This will install all the packages/libs which we are using,Right now im using only 1 package which is ExpressJs[makes life easy])
+command "nodemon index.js" or just "nodemon"
+
+ 
